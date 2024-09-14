@@ -23,7 +23,7 @@ This branch is purely based on `Pyrogram V2` with more stability
 - auto pin messages(if they are pinned)
 - login via phone number
 
-## Deploying Guide - [TEAM SPY](https://t.me/devggn)
+## Deploying Guide - [TEAM SPY](https://t.me/save_restricted_content_bots)
 
 ### How to get required vars
  
