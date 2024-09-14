@@ -3,7 +3,7 @@
 </h1>
 
 
-Contact: [Telegram](https://t.me/devggn)
+Contact: [Telegram](https://t.me/save_restricted_content_bots)
 
 ---
 
@@ -105,6 +105,6 @@ Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blo
 **Note**: Changing the terms and commands doesn't magically make you a developer. Real development involves understanding the code, writing new functionalities, and debugging issues, not just renaming things. If only it were that easy!
 
 ## Contributers
-My group members contact... Join @devggn to know them.
+My group members contact... Join @save_restricted_content_bots to know them.
 
 Thanks!
